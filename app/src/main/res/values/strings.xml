@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PromedioNotas</string>
+    <string name="txtEstatus">Estatus del Alumno</string>
+    <string name="txtMate">Matemáticas</string>
+    <string name="txtFisica">Física</string>
+    <string name="txtQuimica">Química</string>
+    <string name="btnEvaluar">EVALUAR</string>
+    <string name="btn_limpiar">Limpiar</string>
+</resources>
